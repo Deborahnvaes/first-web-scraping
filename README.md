@@ -5,7 +5,6 @@
 <li class="has-line-data" data-line-start="6" data-line-end="7">Pré processamento de texto ( Para garantir que os dados estejam limpos e uniformes)</li>
 <li class="has-line-data" data-line-start="7" data-line-end="8">Contagem de Palavras (Contei a frequência de palavras nos nomes dos cursos)</li>
 <li class="has-line-data" data-line-start="8" data-line-end="11">Análise e Interpretação (Após criar a nuvem de palavras, encontrei as palavras-chaves mais comuns no nome dos cursos).<br>
-✨Magic ✨</li>
 </ul>
 <h2 class="code-line" data-line-start=11 data-line-end=12 ><a id="_Ferramentas_utilizadas_11"></a>🚀 Ferramentas utilizadas:</h2>
 <ul>
